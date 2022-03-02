@@ -28,12 +28,11 @@ Features
 - Support HTTP
 - Support HTTPS
  
-#Proxy list format
+# Proxy list format
 Your proxy list should be in the following format:
 IP:PORT
 
-example
-85.6.4.55.5:1080
+example: 85.6.4.55.5:1080
 
 
 ## Donation
